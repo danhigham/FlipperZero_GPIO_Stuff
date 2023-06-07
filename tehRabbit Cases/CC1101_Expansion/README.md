@@ -4,7 +4,7 @@ A simple holder that slides on to the side of your CC1101 expansion board, allow
 
 Download the STL file [here](./cc1101_holder.stl)
 
-<img src="cc1101.jpg"
+<img src="CC1101.jpg"
      alt="CC1101 Holder"
      style="height: 600px;" />
 
